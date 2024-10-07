@@ -1,0 +1,2 @@
+imagens/* filter=lfs diff=lfs merge=lfs -text
+restrito/* filter=lfs diff=lfs merge=lfs -text
